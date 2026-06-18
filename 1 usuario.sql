@@ -9,4 +9,4 @@ CREATE TABLE usuario (
 	status bool NOT NULL,
 	CONSTRAINT usuario_pk PRIMARY KEY (id),
 	CONSTRAINT usuario_email_unique UNIQUE (email)
-);
+);     jjkkkkmmmnnnnmm  nnn
