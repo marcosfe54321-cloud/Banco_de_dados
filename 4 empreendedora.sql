@@ -4,4 +4,4 @@ CREATE TABLE empreendedora (
 	data_cadastro date NOT NULL,
 	CONSTRAINT empreendedora_pk PRIMARY KEY (id_empreendedora),
 	CONSTRAINT empreendedora_usuario_fk FOREIGN KEY (id_usuario) REFERENCES usuario(id)
-);hhhh
+);
